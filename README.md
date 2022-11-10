@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bowen</h1>
 <h3 align="center">Solution-driven full stack developer with good knowledge of object-oriented programming, adept at finding solutions and collaborating with others.</h3>
 
-- 🌱 I’m currently learning **VBA**
-
 - 👨‍💻 All of my projects are available at [bopepsi.com](bopepsi.com)
 
 - 💬 Ask me about **react, go or javascript**
